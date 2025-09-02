@@ -86,10 +86,6 @@ const Hero: React.FC = () => {
                 Mapped
               </span>
             </h1>
-            
-            <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl leading-relaxed animate-fade-in-up animation-delay-300">
-              bitB creates 100% accurate network visualizations in seconds. Discover 15,000+ devices across 500+ subnets with automated topology mapping and real-time health monitoring.
-            </p>
 
             <div className="space-y-4 animate-fade-in-up animation-delay-600">
               <div className="flex items-center text-gray-300">
